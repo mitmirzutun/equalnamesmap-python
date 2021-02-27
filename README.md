@@ -1,1 +1,3 @@
 # equalnamesmap-python
+## Input
+## Output
